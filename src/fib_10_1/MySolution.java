@@ -13,7 +13,7 @@ import java.util.List;
 public class MySolution {
     @Test
     public void test(){
-        System.out.println(fibWay(45));
+        System.out.println(fibWay(8));
     }
 
     public int fibWay(int n){
